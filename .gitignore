@@ -1,0 +1,10 @@
+.gradle/
+.idea
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml

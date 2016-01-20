@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/caiosouza/AndroidStudioProjects/Jogos2d/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/caiosouza/AndroidStudioProjects/Jogos2d/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e469a24a6a266e20770ec30e995d017711d1cc5c.jar" />
+    </item>
+    <item
+        jar="/home/caiosouza/projetos/introducao-jogos2d-com-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/caiosouza/projetos/introducao-jogos2d-com-android/app/build/intermediates/pre-dexed/debug/classes-02cb1f62858518129b473a0018272c23da7f8953.jar" />
+    </item>
+    <item
+        jar="/home/caiosouza/projetos/introducao-jogos2d-com-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/caiosouza/projetos/introducao-jogos2d-com-android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-86967b5406df82c8f502a2f55c2dc129cf4f74ac.jar" />
+    </item>
+    <item
+        jar="/home/caiosouza/projetos/introducao-jogos2d-com-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/caiosouza/projetos/introducao-jogos2d-com-android/app/build/intermediates/pre-dexed/debug/classes-e42b0257bd2c40e01d31c52666ec96c2690519f2.jar" />
+    </item>
+    <item
+        jar="/home/caiosouza/AndroidStudioProjects/Jogos2d/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/caiosouza/AndroidStudioProjects/Jogos2d/app/build/intermediates/pre-dexed/debug/classes-b22c2d43bc0672f4f7c6abf257ca750baff05c19.jar" />
+    </item>
+    <item
+        jar="/home/caiosouza/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/caiosouza/AndroidStudioProjects/Jogos2d/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8d0a79976f5207bb6daf89a79f76f4dc6e9e5a46.jar" />
+    </item>
+    <item
+        jar="/home/caiosouza/AndroidStudioProjects/Jogos2d/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/caiosouza/AndroidStudioProjects/Jogos2d/app/build/intermediates/pre-dexed/debug/classes-67b6c4f5fc5c89b4a47c1e1375a80875c3efe7df.jar" />
+    </item>
+
+</items>
